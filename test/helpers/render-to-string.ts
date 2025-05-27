@@ -1,3 +1,4 @@
+import {type JSX} from 'react';
 import {render} from '../../src/index.js';
 import createStdout from './create-stdout.js';
 

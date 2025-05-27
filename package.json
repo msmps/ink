@@ -126,6 +126,9 @@
 		},
 		"nodeArguments": [
 			"--loader=ts-node/esm"
+		],
+		"require": [
+			"./test/helpers/setup.ts"
 		]
 	},
 	"xo": {
